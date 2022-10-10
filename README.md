@@ -8,5 +8,4 @@
   <a href="https://suicides.tech/"><img src="https://rule34.xxx/counter/7.gif"></a>
   <a href="https://suicides.tech/"><img src="https://rule34.xxx/counter/8.gif"></a>
   <a href="https://suicides.tech/"><img src="https://rule34.xxx/counter/9.gif"></a>
-  <a href="https://suicides.tech/"><img src="https://rule34.xxx/counter/10.gif"></a>
 </p>
