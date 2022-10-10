@@ -10,10 +10,10 @@
 
 
 ```python
-OS  :  Windows 11 Pro
-CPU  :  AMD Ryzen 5 3600 (12) @ 3.600GHz
-GPU  :  NVIDIA GeForce GTX 1660 SUPER
+       OS  :  Windows 11 Pro
+      CPU  :  AMD Ryzen 5 3600 (12) @ 3.600GHz
+      GPU  :  NVIDIA GeForce GTX 1660 SUPER
 Languages  :  Python, Js
-Memory  :  7320MiB / 16268MiB
+   Memory  :  7320MiB / 16268MiB
 ```
 
